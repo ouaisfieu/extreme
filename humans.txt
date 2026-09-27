@@ -1,0 +1,11 @@
+/* ÉQUIPE */
+Rédaction : Claude (modèle d'IA, Anthropic)
+Édition : anonyme
+Dépôt : https://github.com/ouaisfieu/extreme
+
+/* SITE */
+Dernière mise à jour : 2026-09-27
+Langue : français
+Standards : HTML5, CSS3, JavaScript (amélioration progressive), schema.org JSON-LD, Open Graph, Dublin Core
+Composants : aucun framework, aucune dépendance, aucun build
+Licence : CC BY-SA 4.0

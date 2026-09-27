@@ -1,0 +1,609 @@
+[
+ {
+  "date": "1848-02-21",
+  "titre": "Publication du Manifeste du parti communiste",
+  "texte": "Marx et Engels publient à Londres le texte fondateur du communisme moderne, rédigé en partie à Bruxelles.",
+  "camp": "gauche",
+  "lieu": "Londres / Bruxelles",
+  "sources": []
+ },
+ {
+  "date": "1864-09-28",
+  "titre": "Fondation de la Première Internationale",
+  "texte": "L'Association internationale des travailleurs réunit marxistes, proudhoniens et anarchistes ; la scission de 1872 entre Marx et Bakounine dessine durablement le clivage entre communistes et libertaires.",
+  "camp": "gauche",
+  "lieu": "Londres",
+  "sources": []
+ },
+ {
+  "date": "1917-11-07",
+  "titre": "Révolution d'Octobre",
+  "texte": "Les bolcheviks prennent le pouvoir en Russie. Le marxisme-léninisme devient une doctrine d'État.",
+  "camp": "gauche",
+  "lieu": "Petrograd",
+  "sources": []
+ },
+ {
+  "date": "1919-03-02",
+  "titre": "Fondation de l'Internationale communiste",
+  "texte": "Le Komintern impose aux partis communistes les « 21 conditions » : centralisme démocratique et fidélité à Moscou.",
+  "camp": "gauche",
+  "lieu": "Moscou",
+  "sources": []
+ },
+ {
+  "date": "1922-10-28",
+  "titre": "Marche sur Rome",
+  "texte": "Mussolini accède au pouvoir : naissance du premier régime fasciste.",
+  "camp": "droite",
+  "lieu": "Italie",
+  "sources": []
+ },
+ {
+  "date": "1933-01-30",
+  "titre": "Hitler chancelier",
+  "texte": "Le national-socialisme arrive au pouvoir en Allemagne par des voies légales avant d'abolir la démocratie en quelques mois.",
+  "camp": "droite",
+  "lieu": "Allemagne",
+  "sources": []
+ },
+ {
+  "date": "1936-01-10",
+  "titre": "Loi française sur les groupes de combat et milices privées",
+  "texte": "Adoptée après l'émeute du 6 février 1934 pour dissoudre les ligues d'extrême droite. Devenue l'article L. 212-1 du code de la sécurité intérieure, elle fonde encore les dissolutions actuelles.",
+  "camp": "etat",
+  "lieu": "France",
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Loi_du_10_janvier_1936_sur_les_groupes_de_combat_et_milices_priv%C3%A9es"
+  ]
+ },
+ {
+  "date": "1938-09-03",
+  "titre": "Fondation de la IVe Internationale",
+  "texte": "Trotsky et ses partisans créent leur propre Internationale contre le stalinisme.",
+  "camp": "gauche",
+  "lieu": "Périgny (France)",
+  "sources": []
+ },
+ {
+  "date": "1960-12-20",
+  "titre": "Grande grève belge de l'hiver 1960-1961",
+  "texte": "Mouvement contre la « Loi unique » ; l'économiste trotskiste belge Ernest Mandel y défend les réformes de structure anticapitalistes.",
+  "camp": "gauche",
+  "lieu": "Belgique",
+  "sources": []
+ },
+ {
+  "date": "1968-01",
+  "titre": "Création du GRECE",
+  "texte": "Naissance de la Nouvelle Droite autour d'Alain de Benoist : stratégie métapolitique et ethno-différencialisme.",
+  "camp": "droite",
+  "lieu": "France",
+  "sources": []
+ },
+ {
+  "date": "1968-05",
+  "titre": "Mai 68 et la « nouvelle gauche »",
+  "texte": "Explosion des courants maoïstes, trotskistes et libertaires en Europe. En Belgique, le mouvement étudiant AMADA, né à Louvain, donnera le PTB (1979).",
+  "camp": "gauche",
+  "lieu": "Europe",
+  "sources": []
+ },
+ {
+  "date": "1969-03-29",
+  "titre": "Fondation de la Nouvelle Armée du peuple (NPA)",
+  "texte": "Branche armée maoïste du Parti communiste des Philippines ; la plus ancienne insurrection communiste encore active en Asie.",
+  "camp": "gauche",
+  "lieu": "Philippines",
+  "sources": [
+   "https://en.wikipedia.org/wiki/New_People%27s_Army"
+  ]
+ },
+ {
+  "date": "1970-05-14",
+  "titre": "Naissance de la Fraction armée rouge (RAF)",
+  "texte": "Les « années de plomb » voient des groupes armés d'extrême gauche (RAF, Brigades rouges, CCC en Belgique) viser des personnes. Leur échec pèse encore sur les débats actuels sur la violence.",
+  "camp": "gauche",
+  "lieu": "RFA",
+  "sources": []
+ },
+ {
+  "date": "1972-10-05",
+  "titre": "Fondation du Front national",
+  "texte": "Jean-Marie Le Pen fédère diverses composantes de l'extrême droite française.",
+  "camp": "droite",
+  "lieu": "France",
+  "sources": []
+ },
+ {
+  "date": "1978",
+  "titre": "Naissance du Vlaams Blok",
+  "texte": "Scission nationaliste flamande radicale ; condamné pour racisme en 2004, le parti se refonde en Vlaams Belang.",
+  "camp": "droite",
+  "lieu": "Belgique",
+  "sources": []
+ },
+ {
+  "date": "1984-06-17",
+  "titre": "Percée européenne du Front national",
+  "texte": "10,95 % aux européennes : début de l'installation électorale durable de l'extrême droite en Europe occidentale.",
+  "camp": "droite",
+  "lieu": "France",
+  "sources": []
+ },
+ {
+  "date": "1989",
+  "titre": "Premier accord de cordon sanitaire en Belgique",
+  "texte": "Les partis flamands s'engagent à ne pas coopérer avec le Vlaams Blok, engagement renouvelé en 1992 après le « dimanche noir ».",
+  "camp": "etat",
+  "lieu": "Belgique",
+  "sources": []
+ },
+ {
+  "date": "1991-12-26",
+  "titre": "Dissolution de l'URSS",
+  "texte": "Fin du modèle étatique de référence du communisme ; recomposition de la gauche radicale européenne.",
+  "camp": "gauche",
+  "lieu": "URSS",
+  "sources": []
+ },
+ {
+  "date": "1999-11-30",
+  "titre": "Contre-sommet de Seattle",
+  "texte": "Le mouvement altermondialiste et les tactiques de black bloc gagnent une visibilité mondiale.",
+  "camp": "gauche",
+  "lieu": "États-Unis",
+  "sources": []
+ },
+ {
+  "date": "2000-02-04",
+  "titre": "Le FPÖ entre au gouvernement autrichien",
+  "texte": "L'Union européenne réagit par des sanctions diplomatiques, levées quelques mois plus tard : premier test de la normalisation.",
+  "camp": "droite",
+  "lieu": "Autriche",
+  "sources": []
+ },
+ {
+  "date": "2008-09-15",
+  "titre": "Faillite de Lehman Brothers",
+  "texte": "La crise financière ouvre un cycle de radicalisations : Syriza, Podemos et mouvements anti-austérité à gauche ; partis souverainistes et nationalistes à droite.",
+  "camp": "transversal",
+  "lieu": "Monde",
+  "sources": []
+ },
+ {
+  "date": "2010",
+  "titre": "Renaud Camus popularise le « Grand Remplacement »",
+  "texte": "Le mythe complotiste devient le récit mobilisateur de l'extrême droite mondiale.",
+  "camp": "droite",
+  "lieu": "France",
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Grand_remplacement"
+  ]
+ },
+ {
+  "date": "2010-04-25",
+  "titre": "Orbán revient au pouvoir avec deux tiers des sièges",
+  "texte": "Début de la construction de l'« État illibéral » en Hongrie.",
+  "camp": "droite",
+  "lieu": "Hongrie",
+  "sources": [
+   "https://www.americanprogress.org/article/hungarys-democratic-backsliding-threatens-the-trans-atlantic-security-order/"
+  ]
+ },
+ {
+  "date": "2011-05-15",
+  "titre": "Mouvement des Indignés (15-M)",
+  "texte": "Occupation des places espagnoles ; matrice de Podemos (2014).",
+  "camp": "gauche",
+  "lieu": "Espagne",
+  "sources": []
+ },
+ {
+  "date": "2011-07-22",
+  "titre": "Attentats d'Oslo et d'Utøya",
+  "texte": "Anders Breivik tue 77 personnes au nom d'un manifeste contre le « multiculturalisme » et l'« islamisation ».",
+  "camp": "droite",
+  "lieu": "Norvège",
+  "sources": []
+ },
+ {
+  "date": "2014-07-26",
+  "titre": "Discours d'Orbán sur la « démocratie illibérale »",
+  "texte": "À Băile Tușnad, le Premier ministre hongrois revendique ouvertement un modèle d'État illibéral.",
+  "camp": "droite",
+  "lieu": "Roumanie",
+  "sources": []
+ },
+ {
+  "date": "2015-07-05",
+  "titre": "Référendum grec (« Oxi »)",
+  "texte": "61 % de « non » à l'austérité, suivis quelques jours plus tard d'un troisième mémorandum accepté par le gouvernement Tsipras : tournant du déclin de Syriza.",
+  "camp": "gauche",
+  "lieu": "Grèce",
+  "sources": [
+   "https://mural.maynoothuniversity.ie/id/eprint/20618/1/brown%202025%20syriza%20published.pdf"
+  ]
+ },
+ {
+  "date": "2017-08-12",
+  "titre": "Rassemblement « Unite the Right » à Charlottesville",
+  "texte": "Une militante antiraciste est tuée ; le suprémacisme blanc revient au premier plan aux États-Unis.",
+  "camp": "droite",
+  "lieu": "États-Unis",
+  "sources": []
+ },
+ {
+  "date": "2018-01-17",
+  "titre": "Abandon de l'aéroport de Notre-Dame-des-Landes",
+  "texte": "Victoire de la ZAD, référence de l'écologie radicale française.",
+  "camp": "gauche",
+  "lieu": "France",
+  "sources": []
+ },
+ {
+  "date": "2019-03-15",
+  "titre": "Attentat de Christchurch",
+  "texte": "51 morts dans deux mosquées ; le manifeste du tueur se réclame du « Grand Remplacement » et de l'écofascisme.",
+  "camp": "droite",
+  "lieu": "Nouvelle-Zélande",
+  "sources": []
+ },
+ {
+  "date": "2019-05-26",
+  "titre": "« Dimanche noir » bis en Flandre",
+  "texte": "Le Vlaams Belang remonte à près de 18 % en Flandre ; le cordon sanitaire tient.",
+  "camp": "droite",
+  "lieu": "Belgique",
+  "sources": []
+ },
+ {
+  "date": "2021-01",
+  "titre": "Naissance des Soulèvements de la Terre",
+  "texte": "Coalition de paysans, zadistes et jeunes militants climat pratiquant le « désarmement » d'infrastructures.",
+  "camp": "gauche",
+  "lieu": "France",
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Les_Soul%C3%A8vements_de_la_Terre"
+  ]
+ },
+ {
+  "date": "2021-01-06",
+  "titre": "Assaut du Capitole",
+  "texte": "Des partisans de Donald Trump envahissent le Congrès pour empêcher la certification de l'élection.",
+  "camp": "droite",
+  "lieu": "États-Unis",
+  "sources": []
+ },
+ {
+  "date": "2021-03-03",
+  "titre": "Dissolution de Génération identitaire",
+  "texte": "Décret français validé par le Conseil d'État ; ses militants se redéploient sous d'autres noms.",
+  "camp": "etat",
+  "lieu": "France",
+  "sources": [
+   "https://revuedlf.com/droit-administratif/la-loi-du-10-janvier-1936-sur-les-groupes-de-combat-et-milices-privees-article-l-212-1-du-code-de-la-securite-interieure-larme-de-dissolution-massive/"
+  ]
+ },
+ {
+  "date": "2022-02-24",
+  "titre": "Invasion russe de l'Ukraine",
+  "texte": "Ligne de fracture majeure : à gauche, le débat sur le campisme ; à droite, entre atlantistes (ECR) et russophiles (ESN, Fidesz).",
+  "camp": "transversal",
+  "lieu": "Ukraine",
+  "sources": []
+ },
+ {
+  "date": "2022-09-04",
+  "titre": "Rejet de la nouvelle constitution chilienne",
+  "texte": "62 % de « non » au texte porté par la gauche de Gabriel Boric.",
+  "camp": "gauche",
+  "lieu": "Chili",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gabriel_Boric"
+  ]
+ },
+ {
+  "date": "2022-09-25",
+  "titre": "Giorgia Meloni remporte les élections italiennes",
+  "texte": "Fratelli d'Italia, issu de la tradition post-fasciste, prend la tête du gouvernement.",
+  "camp": "droite",
+  "lieu": "Italie",
+  "sources": []
+ },
+ {
+  "date": "2023-06-21",
+  "titre": "Dissolution des Soulèvements de la Terre",
+  "texte": "Décret du gouvernement français, suspendu en référé puis annulé par le Conseil d'État le 9 novembre 2023, faute de violences contre les personnes.",
+  "camp": "etat",
+  "lieu": "France",
+  "sources": [
+   "https://www.conseil-etat.fr/actualites/soulevements-de-la-terre-gale-alvarium-cri-le-conseil-d-etat-precise-les-criteres-justifiant-la-dissolution-d-une-association-ou-d-un-groupement"
+  ]
+ },
+ {
+  "date": "2023-11-22",
+  "titre": "Victoire du PVV de Geert Wilders",
+  "texte": "Premier parti des Pays-Bas avec 37 sièges ; il entre en 2024 dans une coalition qui abandonnera ses promesses sociales.",
+  "camp": "droite",
+  "lieu": "Pays-Bas",
+  "sources": [
+   "https://www.ips-journal.eu/topics/democracy-and-society/wilders-welfare-chauvinism-7578/"
+  ]
+ },
+ {
+  "date": "2024-01-08",
+  "titre": "Fondation officielle du BSW",
+  "texte": "Sahra Wagenknecht quitte Die Linke et lance un parti de « conservatisme de gauche ».",
+  "camp": "gauche",
+  "lieu": "Allemagne",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sahra_Wagenknecht_Alliance"
+  ]
+ },
+ {
+  "date": "2024-01-10",
+  "titre": "Révélations sur la réunion de Potsdam",
+  "texte": "Un projet de « remigration » discuté avec des membres de l'AfD provoque des manifestations de masse.",
+  "camp": "droite",
+  "lieu": "Allemagne",
+  "sources": []
+ },
+ {
+  "date": "2024-06-09",
+  "titre": "Élections européennes et législatives belges",
+  "texte": "Droites radicales et extrêmes : plus d'un quart des 720 sièges européens. En Belgique, le PTB obtient 9,86 % et 15 sièges fédéraux ; le Vlaams Belang manque la première place en Flandre.",
+  "camp": "transversal",
+  "lieu": "UE / Belgique",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2024_European_Parliament_election",
+   "https://www.ptb.be/actualites/763-340-voix-le-ptb-est-lun-des-gagnants-de-ces-elections"
+  ]
+ },
+ {
+  "date": "2024-07-08",
+  "titre": "Création du groupe Patriotes pour l'Europe",
+  "texte": "Autour du RN et du Fidesz ; 84 eurodéputés, troisième groupe du Parlement.",
+  "camp": "droite",
+  "lieu": "UE",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Patriots_for_Europe"
+  ]
+ },
+ {
+  "date": "2024-10-13",
+  "titre": "Communales belges : percée du PTB-PVDA",
+  "texte": "Le parti passe de 169 à 258 élus locaux et devient deuxième à Anvers.",
+  "camp": "gauche",
+  "lieu": "Belgique",
+  "sources": [
+   "https://www.ptb.be/actualites/le-ptb-passe-de-169-258-elus-locaux"
+  ]
+ },
+ {
+  "date": "2025-02-23",
+  "titre": "Élections fédérales allemandes",
+  "texte": "L'AfD double son score (20,8 %). Die Linke rebondit (8,8 %) ; le BSW échoue à 4,98 %, à quelques milliers de voix du seuil.",
+  "camp": "transversal",
+  "lieu": "Allemagne",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Results_of_the_2025_German_federal_election",
+   "https://link.springer.com/chapter/10.1007/978-3-032-20555-1_20"
+  ]
+ },
+ {
+  "date": "2025-05-02",
+  "titre": "L'AfD classée « extrémiste de droite avérée »",
+  "texte": "Décision de l'Office fédéral de protection de la constitution, contestée en justice par le parti.",
+  "camp": "etat",
+  "lieu": "Allemagne",
+  "sources": [
+   "https://www.vg-koeln.nrw.de/behoerde/presse/Pressemitteilungen/05_26022026/index.php"
+  ]
+ },
+ {
+  "date": "2025-05-18",
+  "titre": "« Super dimanche » électoral",
+  "texte": "Portugal : Chega devient deuxième force (60 sièges) et la gauche radicale s'effondre. Roumanie : le nationaliste George Simion battu (46 %) par Nicușor Dan.",
+  "camp": "transversal",
+  "lieu": "Portugal / Roumanie",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2025_Portuguese_legislative_election",
+   "https://en.wikipedia.org/wiki/2025_Romanian_presidential_election"
+  ]
+ },
+ {
+  "date": "2025-06-01",
+  "titre": "Karol Nawrocki élu président de la Pologne",
+  "texte": "Le candidat soutenu par le PiS l'emporte avec 50,89 %.",
+  "camp": "droite",
+  "lieu": "Pologne",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2025_Polish_presidential_election"
+  ]
+ },
+ {
+  "date": "2025-07-20",
+  "titre": "Percée de Sanseitō au Japon",
+  "texte": "Le parti « Japanese First », né sur YouTube, remporte 14 sièges à la Chambre haute.",
+  "camp": "droite",
+  "lieu": "Japon",
+  "sources": [
+   "https://www.japantimes.co.jp/news/2025/07/21/japan/politics/japan-sanseito-upper-house-results/"
+  ]
+ },
+ {
+  "date": "2025-09-10",
+  "titre": "Assassinat de Charlie Kirk",
+  "texte": "L'influenceur conservateur est tué sur un campus de l'Utah ; la réponse de l'administration Trump vise la gauche radicale.",
+  "camp": "transversal",
+  "lieu": "États-Unis",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk"
+  ]
+ },
+ {
+  "date": "2025-09-22",
+  "titre": "« Antifa » désignée organisation terroriste intérieure aux États-Unis",
+  "texte": "Décret présidentiel contesté par les juristes, l'antifascisme n'étant pas une organisation structurée.",
+  "camp": "etat",
+  "lieu": "États-Unis",
+  "sources": [
+   "https://www.whitehouse.gov/fact-sheets/2025/09/fact-sheet-president-donald-j-trump-designates-antifa-as-a-domestic-terrorist-organization/",
+   "https://www.npr.org/2025/09/19/nx-s1-5545764/trump-antifa-domestic-terrorist-organization"
+  ]
+ },
+ {
+  "date": "2025-10-04",
+  "titre": "Victoire d'Andrej Babiš en Tchéquie",
+  "texte": "ANO (34,5 %) gouverne avec le SPD d'extrême droite et le parti Motoristes.",
+  "camp": "droite",
+  "lieu": "Tchéquie",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2025_Czech_parliamentary_election"
+  ]
+ },
+ {
+  "date": "2025-10-19",
+  "titre": "Fin de deux décennies de MAS en Bolivie",
+  "texte": "Le conservateur Rodrigo Paz remporte le second tour.",
+  "camp": "transversal",
+  "lieu": "Bolivie",
+  "sources": [
+   "https://www.pbs.org/newshour/world/rodrigo-paz-wins-presidential-runoff-becoming-bolivias-first-conservative-leader-in-decades"
+  ]
+ },
+ {
+  "date": "2025-10-26",
+  "titre": "Législatives argentines",
+  "texte": "La Libertad Avanza de Javier Milei dépasse 40 % ; le FIT-U trotskiste recueille environ 4 % et plus de 850 000 voix.",
+  "camp": "transversal",
+  "lieu": "Argentine",
+  "sources": [
+   "https://chequeado.com/el-explicador/la-libertad-avanza-gano-las-elecciones-legislativas-2025-como-queda-conformado-el-nuevo-congreso/",
+   "https://www.lanacion.com.ar/politica/el-frente-de-izquierda-obtuvo-cerca-de-4-puntos-a-nivel-nacional-y-pierde-una-banca-en-el-congreso-nid26102025/"
+  ]
+ },
+ {
+  "date": "2025-10-29",
+  "titre": "Législatives néerlandaises",
+  "texte": "Le PVV recule de 37 à 26 sièges, à égalité avec D66 (centre libéral) qui arrive en tête en voix.",
+  "camp": "droite",
+  "lieu": "Pays-Bas",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2025_Dutch_general_election"
+  ]
+ },
+ {
+  "date": "2025-11-04",
+  "titre": "Zohran Mamdani élu maire de New York",
+  "texte": "Premier maire socialiste démocrate (DSA) de la ville ; investi le 1er janvier 2026.",
+  "camp": "gauche",
+  "lieu": "États-Unis",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zohran_Mamdani"
+  ]
+ },
+ {
+  "date": "2025-11-13",
+  "titre": "Quatre groupes européens désignés « terroristes étrangers » par Washington",
+  "texte": "Antifa Ost (Allemagne), la Fédération anarchiste informelle (Italie) et deux groupes grecs.",
+  "camp": "etat",
+  "lieu": "États-Unis / Europe",
+  "sources": [
+   "https://www.arnoldporter.com/en/perspectives/blogs/enforcement-edge/2025/12/precedent-setting-antifa-related-foreign-terrorist-designations"
+  ]
+ },
+ {
+  "date": "2025-12-14",
+  "titre": "José Antonio Kast élu président du Chili",
+  "texte": "Le candidat d'extrême droite bat la communiste Jeannette Jara (58,2 % contre 41,8 %).",
+  "camp": "droite",
+  "lieu": "Chili",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2025_Chilean_general_election"
+  ]
+ },
+ {
+  "date": "2026-02-26",
+  "titre": "Le tribunal administratif de Cologne suspend le classement de l'AfD",
+  "texte": "« Fort soupçon » d'objectifs anticonstitutionnels, mais pas de certitude qu'ils dominent l'ensemble du parti : décision provisoire.",
+  "camp": "etat",
+  "lieu": "Allemagne",
+  "sources": [
+   "https://www.vg-koeln.nrw.de/behoerde/presse/Pressemitteilungen/05_26022026/index.php"
+  ]
+ },
+ {
+  "date": "2026-03-22",
+  "titre": "Municipales françaises",
+  "texte": "Le RN élargit son implantation (Perpignan conservé) ; LFI gagne notamment Saint-Denis et Roubaix.",
+  "camp": "transversal",
+  "lieu": "France",
+  "sources": [
+   "https://fr.wikipedia.org/wiki/%C3%89lections_municipales_fran%C3%A7aises_de_2026"
+  ]
+ },
+ {
+  "date": "2026-04-12",
+  "titre": "Défaite de Viktor Orbán",
+  "texte": "Le parti Tisza de Péter Magyar obtient 53 % et 141 sièges sur 199, avec une participation record (79 %).",
+  "camp": "droite",
+  "lieu": "Hongrie",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_Hungarian_parliamentary_election",
+   "https://blogs.lse.ac.uk/europpblog/2026/04/15/hungary-election-tisza-party-fidesz-victory/"
+  ]
+ },
+ {
+  "date": "2026-05-07",
+  "titre": "Poussée de Reform UK",
+  "texte": "Élections locales et dévolues : 41 sièges en Écosse, 34 au Pays de Galles.",
+  "camp": "droite",
+  "lieu": "Royaume-Uni",
+  "sources": [
+   "https://www.publicsectorexecutive.com/articles/winners-and-losers-2026-elections"
+  ]
+ },
+ {
+  "date": "2026-06-21",
+  "titre": "Abelardo de la Espriella élu président de la Colombie",
+  "texte": "Il bat de justesse Iván Cepeda (Pacto Histórico) : 49,7 % contre 48,7 %.",
+  "camp": "droite",
+  "lieu": "Colombie",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_Colombian_presidential_election"
+  ]
+ },
+ {
+  "date": "2026-07-07",
+  "titre": "Arrêt d'appel dans l'affaire Le Pen",
+  "texte": "Condamnation confirmée ; l'inéligibilité réduite lui rend formellement la possibilité de concourir en 2027, sous bracelet électronique. Pourvoi en cassation annoncé.",
+  "camp": "droite",
+  "lieu": "France",
+  "sources": [
+   "https://verfassungsblog.de/le-pen-ban/"
+  ]
+ },
+ {
+  "date": "2026-09-06",
+  "titre": "L'AfD à 43,8 % en Saxe-Anhalt",
+  "texte": "Premier parti, à trois sièges de la majorité absolue.",
+  "camp": "droite",
+  "lieu": "Allemagne",
+  "sources": [
+   "https://www.bpb.de/kurz-knapp/hintergrund-aktuell/581006/landtagswahl-in-sachsen-anhalt-2026-afd-staerkste-kraft/"
+  ]
+ },
+ {
+  "date": "2026-09-20",
+  "titre": "Die Linke premier parti à Berlin ; l'AfD en tête en Mecklembourg",
+  "texte": "Le même jour : Die Linke 25,7 % à Berlin (Elif Eralp), AfD 38,2 % en Mecklembourg-Poméranie-Occidentale. Le BSW échoue dans les deux Länder.",
+  "camp": "transversal",
+  "lieu": "Allemagne",
+  "sources": [
+   "https://www.zdfheute.de/politik/deutschland/wahl-berlin-wahlergebnisse-cdu-die-linke-evers-eralp-100.html",
+   "https://www.bpb.de/kurz-knapp/hintergrund-aktuell/581565/landtagswahl-in-mecklenburg-vorpommern-2026-afd-staerkste-kraft-cdu-verfehlt-einzug-in-den-landtag/"
+  ]
+ }
+]

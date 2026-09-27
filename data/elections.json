@@ -1,0 +1,794 @@
+[
+ {
+  "id": "pe-2024",
+  "t": "Parlement européen : sièges par groupe (2019-2024 → 2024-2029)",
+  "d": "2024-06-09",
+  "c": "Union européenne",
+  "cols": [
+   "Groupe",
+   "Famille",
+   "Sièges 2019-2024",
+   "Sièges 2024-2029",
+   "Évolution"
+  ],
+  "rows": [
+   [
+    "Parti populaire européen (PPE)",
+    "centre droit",
+    "179",
+    "188",
+    "+9"
+   ],
+   [
+    "Socialistes et démocrates (S&D)",
+    "centre gauche",
+    "138",
+    "136",
+    "−2"
+   ],
+   [
+    "Patriotes pour l'Europe (PfE)",
+    "droite radicale",
+    "—",
+    "84",
+    "nouveau"
+   ],
+   [
+    "Conservateurs et réformistes (ECR)",
+    "droite souverainiste",
+    "69",
+    "78",
+    "+9"
+   ],
+   [
+    "Renew Europe",
+    "libéraux",
+    "98",
+    "77",
+    "−21"
+   ],
+   [
+    "Verts / ALE",
+    "écologistes",
+    "70",
+    "53",
+    "−17"
+   ],
+   [
+    "The Left (GUE/NGL)",
+    "gauche radicale",
+    "37",
+    "46",
+    "+9"
+   ],
+   [
+    "Europe des nations souveraines (ESN)",
+    "extrême droite",
+    "—",
+    "25",
+    "nouveau"
+   ],
+   [
+    "Non-inscrits",
+    "divers",
+    "63",
+    "33",
+    "−30"
+   ]
+  ],
+  "src": [
+   "wp-ep2024",
+   "ep-results"
+  ],
+  "note": "Effectifs à la constitution des groupes en juillet 2024 ; ils varient en cours de mandature. Les sièges 2019-2024 sont ceux de fin de mandature."
+ },
+ {
+  "id": "de-2025",
+  "t": "Allemagne : élections fédérales du 23 février 2025",
+  "d": "2025-02-23",
+  "c": "Allemagne",
+  "cols": [
+   "Parti",
+   "Famille",
+   "% (2e voix)",
+   "Sièges"
+  ],
+  "rows": [
+   [
+    "CDU/CSU",
+    "centre droit",
+    "28,5",
+    "208"
+   ],
+   [
+    "AfD",
+    "droite radicale / extrême droite",
+    "20,8",
+    "152"
+   ],
+   [
+    "SPD",
+    "centre gauche",
+    "16,4",
+    "120"
+   ],
+   [
+    "Grünen",
+    "écologistes",
+    "11,6",
+    "85"
+   ],
+   [
+    "Die Linke",
+    "gauche radicale",
+    "8,8",
+    "64"
+   ],
+   [
+    "BSW",
+    "conservatisme de gauche",
+    "4,98",
+    "0"
+   ],
+   [
+    "FDP",
+    "libéraux",
+    "4,3",
+    "0"
+   ]
+  ],
+  "src": [
+   "wp-de-2025",
+   "springer-bsw-2025"
+  ],
+  "note": "Participation : 82,5 %. Le BSW manque le seuil de 5 % d'environ 0,02 point ; son recours devant la Cour constitutionnelle a été rejeté."
+ },
+ {
+  "id": "de-lsa-2026",
+  "t": "Saxe-Anhalt : élection régionale du 6 septembre 2026",
+  "d": "2026-09-06",
+  "c": "Allemagne",
+  "cols": [
+   "Parti",
+   "Famille",
+   "%",
+   "Sièges (sur 83)"
+  ],
+  "rows": [
+   [
+    "AfD",
+    "droite radicale / extrême droite",
+    "43,8",
+    "39"
+   ],
+   [
+    "CDU",
+    "centre droit",
+    "17,2",
+    "15"
+   ],
+   [
+    "SPD",
+    "centre gauche",
+    "9,3",
+    "8"
+   ],
+   [
+    "Grünen",
+    "écologistes",
+    "8,9",
+    "8"
+   ],
+   [
+    "Die Linke",
+    "gauche radicale",
+    "8,6",
+    "8"
+   ],
+   [
+    "BSW",
+    "conservatisme de gauche",
+    "5,3",
+    "5"
+   ],
+   [
+    "FDP",
+    "libéraux",
+    "2,6",
+    "0"
+   ]
+  ],
+  "src": [
+   "bpb-lsa-2026"
+  ],
+  "note": "L'AfD est à trois sièges de la majorité absolue (42)."
+ },
+ {
+  "id": "de-mv-2026",
+  "t": "Mecklembourg-Poméranie-Occidentale : élection régionale du 20 septembre 2026",
+  "d": "2026-09-20",
+  "c": "Allemagne",
+  "cols": [
+   "Parti",
+   "Famille",
+   "%",
+   "Sièges"
+  ],
+  "rows": [
+   [
+    "AfD",
+    "droite radicale / extrême droite",
+    "38,2",
+    "32"
+   ],
+   [
+    "SPD",
+    "centre gauche",
+    "35,5",
+    "29"
+   ],
+   [
+    "Die Linke",
+    "gauche radicale",
+    "6,5",
+    "5"
+   ],
+   [
+    "Grünen",
+    "écologistes",
+    "5,7",
+    "5"
+   ],
+   [
+    "CDU",
+    "centre droit",
+    "4,9",
+    "0"
+   ],
+   [
+    "BSW",
+    "conservatisme de gauche",
+    "4,8",
+    "0"
+   ],
+   [
+    "FDP",
+    "libéraux",
+    "1,0",
+    "0"
+   ]
+  ],
+  "src": [
+   "bpb-mv-2026"
+  ],
+  "note": "Résultat provisoire. La CDU manque le seuil de 5 %, fait inédit dans un Land."
+ },
+ {
+  "id": "de-be-2026",
+  "t": "Berlin : élection de la Chambre des députés du 20 septembre 2026",
+  "d": "2026-09-20",
+  "c": "Allemagne",
+  "cols": [
+   "Parti",
+   "Famille",
+   "%",
+   "Sièges (sur 158)"
+  ],
+  "rows": [
+   [
+    "Die Linke",
+    "gauche radicale",
+    "25,7",
+    "47"
+   ],
+   [
+    "CDU",
+    "centre droit",
+    "18,8",
+    "34"
+   ],
+   [
+    "AfD",
+    "droite radicale / extrême droite",
+    "16,3",
+    "29"
+   ],
+   [
+    "Grünen",
+    "écologistes",
+    "14,3",
+    "26"
+   ],
+   [
+    "SPD",
+    "centre gauche",
+    "12,1",
+    "22"
+   ],
+   [
+    "BSW",
+    "conservatisme de gauche",
+    "4,7",
+    "0"
+   ]
+  ],
+  "src": [
+   "zdf-berlin-2026"
+  ],
+  "note": "Résultat provisoire. Participation 74,2 %. Première place historique de Die Linke dans la capitale."
+ },
+ {
+  "id": "hu-2026",
+  "t": "Hongrie : élections législatives du 12 avril 2026",
+  "d": "2026-04-12",
+  "c": "Hongrie",
+  "cols": [
+   "Parti",
+   "Famille",
+   "% (liste)",
+   "Sièges (sur 199)"
+  ],
+  "rows": [
+   [
+    "Tisza",
+    "centre droit (PPE)",
+    "53,18",
+    "141"
+   ],
+   [
+    "Fidesz–KDNP",
+    "national-conservatisme illibéral",
+    "38,61",
+    "52"
+   ],
+   [
+    "Mi Hazánk",
+    "extrême droite",
+    "5,63",
+    "6"
+   ]
+  ],
+  "src": [
+   "wp-hu-2026",
+   "lse-tisza"
+  ],
+  "note": "Participation record de 78,99 %. Tisza obtient la majorité des deux tiers ; Péter Magyar élu Premier ministre le 9 mai 2026."
+ },
+ {
+  "id": "nl-2025",
+  "t": "Pays-Bas : élections législatives du 29 octobre 2025",
+  "d": "2025-10-29",
+  "c": "Pays-Bas",
+  "cols": [
+   "Parti",
+   "Famille",
+   "%",
+   "Sièges (sur 150)"
+  ],
+  "rows": [
+   [
+    "D66",
+    "centre libéral",
+    "16,94",
+    "26"
+   ],
+   [
+    "PVV",
+    "droite radicale",
+    "16,66",
+    "26"
+   ],
+   [
+    "VVD",
+    "libéraux-conservateurs",
+    "—",
+    "22"
+   ],
+   [
+    "GL-PvdA",
+    "gauche",
+    "—",
+    "20"
+   ],
+   [
+    "CDA",
+    "démocratie chrétienne",
+    "—",
+    "18"
+   ],
+   [
+    "JA21",
+    "droite conservatrice",
+    "—",
+    "9"
+   ],
+   [
+    "FvD",
+    "extrême droite",
+    "—",
+    "7"
+   ]
+  ],
+  "src": [
+   "wp-nl-2025",
+   "tandf-nl-2025"
+  ],
+  "note": "Plus faible écart entre les deux premiers depuis 1956. Le PVV perd 11 sièges ; JA21 et FvD progressent."
+ },
+ {
+  "id": "pt-2025",
+  "t": "Portugal : élections législatives du 18 mai 2025",
+  "d": "2025-05-18",
+  "c": "Portugal",
+  "cols": [
+   "Parti",
+   "Famille",
+   "%",
+   "Sièges"
+  ],
+  "rows": [
+   [
+    "Alliance démocratique (AD)",
+    "centre droit",
+    "31,78",
+    "91"
+   ],
+   [
+    "Parti socialiste (PS)",
+    "centre gauche",
+    "22,83",
+    "58"
+   ],
+   [
+    "Chega",
+    "droite radicale",
+    "22,76",
+    "60"
+   ],
+   [
+    "Livre",
+    "gauche écologiste",
+    "4,07",
+    "6"
+   ],
+   [
+    "CDU (PCP-PEV)",
+    "communistes",
+    "2,91",
+    "3"
+   ],
+   [
+    "Bloco de Esquerda",
+    "gauche radicale",
+    "1,99",
+    "1"
+   ]
+  ],
+  "src": [
+   "wp-pt-2025",
+   "transform-pt-2025"
+  ],
+  "note": "Chega devance le PS en sièges ; pires résultats historiques pour le Bloco et la CDU."
+ },
+ {
+  "id": "cz-2025",
+  "t": "Tchéquie : élections législatives des 3-4 octobre 2025",
+  "d": "2025-10-04",
+  "c": "Tchéquie",
+  "cols": [
+   "Parti",
+   "Famille",
+   "%",
+   "Sièges (sur 200)"
+  ],
+  "rows": [
+   [
+    "ANO 2011",
+    "populisme de droite",
+    "34,5",
+    "80"
+   ],
+   [
+    "SPD",
+    "droite radicale",
+    "7,8",
+    "15"
+   ],
+   [
+    "Motoristes (AUTO)",
+    "droite souverainiste",
+    "6,8",
+    "13"
+   ],
+   [
+    "Stačilo!",
+    "gauche conservatrice / communistes",
+    "4,3",
+    "0"
+   ]
+  ],
+  "src": [
+   "wp-cz-2025",
+   "osw-babis"
+  ],
+  "note": "Coalition ANO–SPD–AUTO ; Andrej Babiš nommé Premier ministre le 9 décembre 2025."
+ },
+ {
+  "id": "pl-2025",
+  "t": "Pologne : élection présidentielle 2025",
+  "d": "2025-06-01",
+  "c": "Pologne",
+  "cols": [
+   "Candidat",
+   "Soutien",
+   "1er tour %",
+   "2d tour %"
+  ],
+  "rows": [
+   [
+    "Karol Nawrocki",
+    "PiS (national-conservateur)",
+    "29,1",
+    "50,89"
+   ],
+   [
+    "Rafał Trzaskowski",
+    "Coalition civique (centre)",
+    "31,1",
+    "49,11"
+   ],
+   [
+    "Sławomir Mentzen",
+    "Confédération (droite radicale libertarienne)",
+    "14,8",
+    "—"
+   ],
+   [
+    "Grzegorz Braun",
+    "extrême droite",
+    "6,3",
+    "—"
+   ]
+  ],
+  "src": [
+   "wp-pl-2025"
+  ],
+  "note": "Scrutin le plus serré de l'histoire polonaise."
+ },
+ {
+  "id": "cl-2025",
+  "t": "Chili : élection présidentielle 2025",
+  "d": "2025-12-14",
+  "c": "Chili",
+  "cols": [
+   "Candidat",
+   "Famille",
+   "1er tour %",
+   "2d tour %"
+  ],
+  "rows": [
+   [
+    "José Antonio Kast",
+    "droite radicale (Parti républicain)",
+    "23,93",
+    "58,17"
+   ],
+   [
+    "Jeannette Jara",
+    "Parti communiste (gauche unie)",
+    "26,85",
+    "41,83"
+   ],
+   [
+    "Franco Parisi",
+    "populisme",
+    "19,71",
+    "—"
+   ],
+   [
+    "Johannes Kaiser",
+    "droite libertarienne",
+    "13,94",
+    "—"
+   ],
+   [
+    "Evelyn Matthei",
+    "droite traditionnelle",
+    "12,47",
+    "—"
+   ]
+  ],
+  "src": [
+   "wp-cl-2025"
+  ],
+  "note": "Kast obtient le plus grand nombre de voix de l'histoire chilienne (7,2 millions) et gagne les seize régions."
+ },
+ {
+  "id": "co-2026",
+  "t": "Colombie : élection présidentielle 2026",
+  "d": "2026-06-21",
+  "c": "Colombie",
+  "cols": [
+   "Candidat",
+   "Famille",
+   "1er tour %",
+   "2d tour %"
+  ],
+  "rows": [
+   [
+    "Abelardo de la Espriella",
+    "droite radicale (indépendant)",
+    "43,75",
+    "49,66"
+   ],
+   [
+    "Iván Cepeda",
+    "gauche (Pacto Histórico)",
+    "40,90",
+    "48,70"
+   ],
+   [
+    "Paloma Valencia",
+    "droite (Centre démocratique)",
+    "6,92",
+    "—"
+   ]
+  ],
+  "src": [
+   "wp-co-2026",
+   "aljazeera-co-2026"
+  ],
+  "note": "Environ 252 000 voix d'écart au second tour."
+ },
+ {
+  "id": "ar-2025",
+  "t": "Argentine : élections législatives du 26 octobre 2025",
+  "d": "2025-10-26",
+  "c": "Argentine",
+  "cols": [
+   "Force",
+   "Famille",
+   "% national",
+   "Remarque"
+  ],
+  "rows": [
+   [
+    "La Libertad Avanza (et alliés)",
+    "droite libertarienne",
+    "40,84",
+    "gagne 15 provinces sur 24 élisant des députés"
+   ],
+   [
+    "Frente de Izquierda (FIT-U)",
+    "trotskisme",
+    "≈ 4",
+    "plus de 850 000 voix ; perd un siège"
+   ]
+  ],
+  "src": [
+   "chequeado-ar-2025",
+   "lanacion-fitu-2025"
+  ],
+  "note": "Le péronisme reste la deuxième force au Congrès."
+ },
+ {
+  "id": "be-barometre-2026",
+  "t": "Belgique : Grand Baromètre Ipsos (2-9 mars 2026)",
+  "d": "2026-03-13",
+  "c": "Belgique",
+  "cols": [
+   "Région",
+   "Parti",
+   "Famille",
+   "Intentions de vote %"
+  ],
+  "rows": [
+   [
+    "Bruxelles",
+    "PTB",
+    "gauche radicale",
+    "25,5"
+   ],
+   [
+    "Bruxelles",
+    "PS",
+    "centre gauche",
+    "18,4"
+   ],
+   [
+    "Bruxelles",
+    "MR",
+    "libéraux",
+    "16,4"
+   ],
+   [
+    "Wallonie",
+    "PS",
+    "centre gauche",
+    "27,9"
+   ],
+   [
+    "Wallonie",
+    "MR",
+    "libéraux",
+    "21,0"
+   ],
+   [
+    "Wallonie",
+    "Les Engagés",
+    "centre",
+    "19,4"
+   ],
+   [
+    "Wallonie",
+    "PTB",
+    "gauche radicale",
+    "17,0"
+   ],
+   [
+    "Flandre",
+    "N-VA",
+    "nationalisme conservateur",
+    "25,5"
+   ],
+   [
+    "Flandre",
+    "Vlaams Belang",
+    "extrême droite",
+    "25,4"
+   ],
+   [
+    "Flandre",
+    "Vooruit",
+    "centre gauche",
+    "12,8"
+   ],
+   [
+    "Flandre",
+    "CD&V",
+    "démocratie chrétienne",
+    "12,6"
+   ],
+   [
+    "Flandre",
+    "PVDA",
+    "gauche radicale",
+    "9,8"
+   ]
+  ],
+  "src": [
+   "dh-barometre-2026"
+  ],
+  "note": "Sondage auprès de 2 602 personnes ; marge d'erreur ±3,1 points (Wallonie, Flandre), ±4 points (Bruxelles). Un sondage n'est pas une élection."
+ },
+ {
+  "id": "br-2026",
+  "t": "Brésil : intentions de vote pour la présidentielle d'octobre 2026 (Datafolha, 22-23 septembre)",
+  "d": "2026-09-25",
+  "c": "Brésil",
+  "cols": [
+   "Candidat",
+   "Famille",
+   "1er tour %",
+   "2d tour %"
+  ],
+  "rows": [
+   [
+    "Luiz Inácio Lula da Silva",
+    "gauche (PT)",
+    "40",
+    "47"
+   ],
+   [
+    "Flávio Bolsonaro",
+    "droite radicale",
+    "36",
+    "45"
+   ]
+  ],
+  "src": [
+   "aljazeera-br-2026"
+  ],
+  "note": "Égalité technique au second tour. Jair Bolsonaro purge une peine de 27 ans pour tentative de coup d'État."
+ }
+]

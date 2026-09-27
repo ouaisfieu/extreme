@@ -1,0 +1,387 @@
+[
+ {
+  "terme": "Accélérationnisme",
+  "id": "accelerationnisme",
+  "camp": "droite",
+  "definition": "Terme d'origine philosophique (qui désignait l'idée d'accélérer les dynamiques du capitalisme pour le dépasser) repris par la mouvance suprémaciste blanche. Dans sa version néonazie, l'« accélérationnisme » vise à précipiter l'effondrement de l'État et de la société par des attentats et des actes de chaos, afin de provoquer une guerre raciale d'où naîtrait un ordre nouveau. Il structure les réseaux en ligne de type « Terrorgram ».",
+  "sameAs": "https://fr.wikipedia.org/wiki/Acc%C3%A9l%C3%A9rationnisme"
+ },
+ {
+  "terme": "Action directe",
+  "id": "action-directe",
+  "camp": "gauche",
+  "definition": "Principe issu du syndicalisme révolutionnaire et de l'anarchisme : agir soi-même, sans intermédiaire institutionnel (élus, partis), pour obtenir un résultat — grève, occupation, blocage, sabotage. À ne pas confondre avec le groupe armé français homonyme des années 1980.",
+  "sameAs": ""
+ },
+ {
+  "terme": "Active Clubs",
+  "id": "active-clubs",
+  "camp": "droite",
+  "definition": "Réseau transnational de petits groupes néonazis se présentant comme des clubs de sport de combat ou de fitness. Ils cultivent la virilité, l'entraînement physique et la préparation à un effondrement social, tout en servant de filière de recrutement.",
+  "sameAs": ""
+ },
+ {
+  "terme": "Agonisme",
+  "id": "agonisme",
+  "camp": "gauche",
+  "definition": "Concept de la philosophe Chantal Mouffe : la démocratie doit organiser un conflit entre adversaires légitimes plutôt que le nier (consensus centriste) ou le radicaliser en affrontement entre ennemis (logique schmittienne ami/ennemi). Il fonde le « populisme de gauche » comme stratégie de radicalisation de la démocratie libérale, non de sa destruction.",
+  "sameAs": "https://en.wikipedia.org/wiki/Agonism"
+ },
+ {
+  "terme": "Anarchisme",
+  "id": "anarchisme",
+  "camp": "gauche",
+  "definition": "Famille de doctrines qui rejettent l'État et toute forme de domination hiérarchique jugée illégitime, au profit de l'autogestion et de la libre association. Historiquement divisé (anarcho-syndicalisme, communisme libertaire, individualisme, insurrectionnalisme), il inspire aujourd'hui une partie des milieux autonomes, des squats et des tactiques de type black bloc.",
+  "sameAs": "https://fr.wikipedia.org/wiki/Anarchisme"
+ },
+ {
+  "terme": "Antifa",
+  "id": "antifa",
+  "camp": "gauche",
+  "definition": "Abréviation d'« antifasciste ». Désigne une nébuleuse de collectifs décentralisés, sans direction commune, qui combattent l'extrême droite par la veille, l'éducation populaire, la mobilisation de rue et parfois la confrontation physique (doctrine du no platform). En 2025, les États-Unis ont désigné « Antifa » organisation terroriste intérieure puis quatre groupes européens comme organisations terroristes étrangères — une qualification juridiquement discutée car l'antifascisme n'est pas une organisation unique.",
+  "sameAs": "https://fr.wikipedia.org/wiki/Antifa"
+ },
+ {
+  "terme": "Autocratie électorale",
+  "id": "autocratie-electorale",
+  "camp": "etat",
+  "definition": "Catégorie du V-Dem Institute : régime où se tiennent des élections multipartites, mais qui ne sont ni libres ni équitables en raison des restrictions pesant sur la presse, l'opposition ou la justice. Le V-Dem y classait la Hongrie d'Orbán.",
+  "sameAs": ""
+ },
+ {
+  "terme": "Autonomie (mouvement autonome)",
+  "id": "autonomie-mouvement-autonome",
+  "camp": "gauche",
+  "definition": "Courant né dans l'Italie des années 1970 (Autonomia operaia) puis en Allemagne (Autonomen) : refus des partis et syndicats, auto-organisation, occupation d'espaces, conflictualité directe avec l'État. On en retrouve l'héritage dans les ZAD, les cortèges de tête et certains réseaux antifascistes.",
+  "sameAs": "https://en.wikipedia.org/wiki/Autonomism"
+ },
+ {
+  "terme": "Autoritarisme",
+  "id": "autoritarisme",
+  "camp": "transversal",
+  "definition": "En science politique, désigne à la fois un type de régime (pouvoir concentré, pluralisme limité, contre-pouvoirs affaiblis) et, chez Cas Mudde, un trait idéologique : la croyance en une société strictement ordonnée où les atteintes à l'autorité doivent être sévèrement punies. C'est l'un des trois piliers de la droite radicale populiste avec le nativisme et le populisme.",
+  "sameAs": "https://fr.wikipedia.org/wiki/Autoritarisme"
+ },
+ {
+  "terme": "Black bloc",
+  "id": "black-bloc",
+  "camp": "gauche",
+  "definition": "Tactique de manifestation, et non organisation : des militants vêtus de noir et masqués forment un bloc compact pour garantir l'anonymat collectif et mener des actions offensives (affrontement avec la police, destruction de vitrines de banques ou de multinationales). Apparue dans l'Allemagne des années 1980, popularisée lors des contre-sommets altermondialistes.",
+  "sameAs": "https://fr.wikipedia.org/wiki/Black_bloc"
+ },
+ {
+  "terme": "Brandmauer",
+  "id": "brandmauer",
+  "camp": "etat",
+  "definition": "« Mur pare-feu » : nom allemand du cordon sanitaire par lequel la CDU/CSU s'interdit toute coopération avec l'AfD. Sa solidité est régulièrement mise en question au niveau local, notamment dans les Länder de l'Est où l'AfD dépasse désormais 38 % (Mecklembourg-Poméranie-Occidentale) voire 43 % (Saxe-Anhalt) en 2026.",
+  "sameAs": ""
+ },
+ {
+  "terme": "Campisme",
+  "id": "campisme",
+  "camp": "gauche",
+  "definition": "Héritage de la guerre froide : lecture du monde en deux « camps » où l'impérialisme occidental (États-Unis, OTAN) est l'ennemi principal, ce qui conduit à relativiser, voire soutenir, les régimes qui s'y opposent (Russie, Iran, Syrie d'Assad…). Ses critiques de gauche parlent d'« anti-impérialisme des imbéciles » et défendent un « internationalisme par le bas ».",
+  "sameAs": "https://fr.wikipedia.org/wiki/Campisme"
+ },
+ {
+  "terme": "Centralisme démocratique",
+  "id": "centralisme-democratique",
+  "camp": "gauche",
+  "definition": "Principe d'organisation léniniste : liberté de discussion avant la décision, puis discipline absolue dans l'application, les instances inférieures étant soumises aux supérieures. Il caractérise les partis marxistes-léninistes et, sous des formes assouplies, certains partis communistes contemporains.",
+  "sameAs": "https://fr.wikipedia.org/wiki/Centralisme_d%C3%A9mocratique"
+ },
+ {
+  "terme": "Chauvinisme de l'État-providence",
+  "id": "chauvinisme-de-l-etat-providence",
+  "camp": "droite",
+  "definition": "Welfare chauvinism : défense de la protection sociale à condition de la réserver aux nationaux (« préférence nationale »). L'immigration y est présentée comme la cause de la crise des services publics. Les études de votes montrent que ce discours social coexiste souvent avec des politiques favorables au capital une fois au pouvoir.",
+  "sameAs": "https://en.wikipedia.org/wiki/Welfare_chauvinism"
+ },
+ {
+  "terme": "Conservatisme de gauche",
+  "id": "conservatisme-de-gauche",
+  "camp": "gauche",
+  "definition": "Étiquette appliquée au BSW de Sahra Wagenknecht : politique économique de gauche (salaire minimum, taxation des plus riches) combinée à des positions culturellement conservatrices (limitation de l'immigration, rejet du « wokisme ») et à une ligne géopolitique hostile à l'aide militaire à l'Ukraine. Certains auteurs parlent d'« autoritarisme de gauche ».",
+  "sameAs": "https://en.wikipedia.org/wiki/Sahra_Wagenknecht_Alliance"
+ },
+ {
+  "terme": "Cordon sanitaire",
+  "id": "cordon-sanitaire",
+  "camp": "etat",
+  "definition": "Engagement des partis démocratiques à ne conclure aucune alliance avec un parti jugé extrémiste. Il peut être politique (pas de coalition) et/ou médiatique (pas de direct à l'antenne, comme en Belgique francophone). Son efficacité dépend fortement du contexte : il a contenu l'extrême droite en Wallonie, mais n'a pas empêché la progression du Vlaams Belang en Flandre.",
+  "sameAs": "https://fr.wikipedia.org/wiki/Cordon_sanitaire_(politique)"
+ },
+ {
+  "terme": "Décroissance",
+  "id": "decroissance",
+  "camp": "gauche",
+  "definition": "Courant qui juge la croissance du PIB incompatible avec les limites écologiques et prône une réduction planifiée de la production et de la consommation matérielles dans les pays riches. Kohei Saito en propose une version communiste.",
+  "sameAs": "https://fr.wikipedia.org/wiki/D%C3%A9croissance"
+ },
+ {
+  "terme": "Dédiabolisation",
+  "id": "dediabolisation",
+  "camp": "droite",
+  "definition": "Stratégie de normalisation d'un parti d'extrême droite : lissage du discours, mise à l'écart des militants les plus sulfureux, changement de nom (Front national → Rassemblement national en 2018), recherche de crédibilité gouvernementale. Les chercheurs soulignent qu'elle modifie la forme plus que le noyau programmatique (préférence nationale, primauté du droit national).",
+  "sameAs": "https://fr.wikipedia.org/wiki/D%C3%A9diabolisation"
+ },
+ {
+  "terme": "Démocratie illibérale",
+  "id": "democratie-illiberale",
+  "camp": "droite",
+  "definition": "Expression popularisée par Fareed Zakaria puis revendiquée par Viktor Orbán en 2014 : un régime où l'on vote, mais où les libertés et contre-pouvoirs (justice, presse, universités, minorités) sont méthodiquement affaiblis. Le V-Dem la classe généralement comme « autocratie électorale ». La défaite d'Orbán en avril 2026 montre toutefois qu'un tel système peut encore être battu dans les urnes.",
+  "sameAs": "https://en.wikipedia.org/wiki/Illiberal_democracy"
+ },
+ {
+  "terme": "Démocratie militante",
+  "id": "democratie-militante",
+  "camp": "etat",
+  "definition": "Doctrine (Karl Loewenstein, 1937) selon laquelle une démocratie peut restreindre certaines libertés de ceux qui veulent la détruire : interdiction de partis, dissolution d'associations, surveillance par les services de renseignement. L'Allemagne (streitbare Demokratie) en est l'exemple type ; la France l'applique via la loi de 1936 sur les groupes de combat.",
+  "sameAs": "https://en.wikipedia.org/wiki/Militant_democracy"
+ },
+ {
+  "terme": "Désobéissance civile",
+  "id": "desobeissance-civile",
+  "camp": "transversal",
+  "definition": "Violation publique, non violente et assumée d'une loi jugée injuste, afin d'en obtenir le changement, en acceptant les sanctions. Distincte du sabotage clandestin. Le débat actuel porte sur la frontière entre désobéissance civile, « désarmement » d'infrastructures et violence.",
+  "sameAs": "https://fr.wikipedia.org/wiki/D%C3%A9sob%C3%A9issance_civile"
+ },
+ {
+  "terme": "Dictature du prolétariat",
+  "id": "dictature-du-proletariat",
+  "camp": "gauche",
+  "definition": "Chez Marx, phase de transition où la classe ouvrière exerce le pouvoir d'État pour abolir les rapports capitalistes. Dans la tradition léniniste, elle justifie le parti unique ; c'est l'un des critères qui distinguent l'extrême gauche (rejet de la démocratie libérale) de la gauche radicale (qui l'accepte).",
+  "sameAs": "https://fr.wikipedia.org/wiki/Dictature_du_prol%C3%A9tariat"
+ },
+ {
+  "terme": "Écofascisme",
+  "id": "ecofascisme",
+  "camp": "droite",
+  "definition": "Idéologie qui articule protection de la nature et suprématie raciale : la dégradation de l'environnement est imputée à la surpopulation du Sud et aux migrations, et la « pureté » d'un territoire à la fermeture ethnique. Héritière du « sang et sol » nazi, elle apparaît dans les manifestes des tueurs de Christchurch et d'El Paso (2019).",
+  "sameAs": "https://fr.wikipedia.org/wiki/%C3%89cofascisme"
+ },
+ {
+  "terme": "Écosocialisme",
+  "id": "ecosocialisme",
+  "camp": "gauche",
+  "definition": "Synthèse du marxisme et de l'écologie politique : le capitalisme, fondé sur l'accumulation illimitée, serait incompatible avec les limites planétaires. Il prône la planification écologique démocratique. Sa variante la plus radicale est le « communisme de la décroissance » de Kohei Saito.",
+  "sameAs": "https://fr.wikipedia.org/wiki/%C3%89cosocialisme"
+ },
+ {
+  "terme": "Entrisme",
+  "id": "entrisme",
+  "camp": "gauche",
+  "definition": "Tactique, surtout trotskiste, consistant à faire adhérer des militants à une organisation plus large (parti social-démocrate, syndicat) pour y gagner de l'influence ou en détacher une aile gauche.",
+  "sameAs": "https://fr.wikipedia.org/wiki/Entrisme"
+ },
+ {
+  "terme": "Extrême droite",
+  "id": "extreme-droite",
+  "camp": "droite",
+  "definition": "Au sens strict (Cas Mudde), famille politique qui rejette l'essence même de la démocratie — souveraineté populaire et élections libres — et vise un régime autoritaire ou totalitaire (néofascisme, néonazisme). Dans le langage courant, le terme englobe aussi la droite radicale populiste, qui accepte le vote mais conteste la démocratie libérale. Voir la page Méthode.",
+  "sameAs": "https://fr.wikipedia.org/wiki/Extr%C3%AAme_droite"
+ },
+ {
+  "terme": "Extrême gauche",
+  "id": "extreme-gauche",
+  "camp": "gauche",
+  "definition": "Au sens strict (Mudde, March), famille qui rejette la démocratie libérale « bourgeoise » et vise un changement de régime par la révolution ou la dictature du prolétariat (certains courants marxistes-léninistes, trotskistes, maoïstes, insurrectionnalistes). À distinguer de la gauche radicale, qui conteste le capitalisme mais accepte la démocratie constitutionnelle.",
+  "sameAs": "https://fr.wikipedia.org/wiki/Extr%C3%AAme_gauche"
+ },
+ {
+  "terme": "Fascisme",
+  "id": "fascisme",
+  "camp": "droite",
+  "definition": "Mouvement et régime nés en Italie en 1919-1922 (Mussolini), puis modèle générique : ultranationalisme, culte du chef, parti-milice, violence politique, corporatisme, rejet du libéralisme comme du marxisme. Roger Griffin en propose une définition minimale : un « ultranationalisme palingénésique ». Les chercheurs déconseillent d'appliquer le mot sans discernement à toute l'extrême droite contemporaine.",
+  "sameAs": "https://fr.wikipedia.org/wiki/Fascisme"
+ },
+ {
+  "terme": "Fémonationalisme",
+  "id": "femonationalisme",
+  "camp": "droite",
+  "definition": "Concept de la sociologue Sara Farris : mobilisation des droits des femmes et de l'égalité des sexes à des fins anti-immigration, en présentant l'homme musulman ou non occidental comme intrinsèquement patriarcal. Farris montre aussi son économie politique : l'orientation des femmes migrantes vers le travail de soin précaire.",
+  "sameAs": "https://en.wikipedia.org/wiki/Femonationalism"
+ },
+ {
+  "terme": "Gauche radicale",
+  "id": "gauche-radicale",
+  "camp": "gauche",
+  "definition": "Partis et mouvements situés à gauche de la social-démocratie qui rejettent le capitalisme néolibéral mais acceptent la démocratie constitutionnelle et le pluralisme (Die Linke, PTB-PVDA, La France insoumise, Podemos…). Luke March en distingue plusieurs familles : communistes réformés, socialistes démocratiques, populistes de gauche.",
+  "sameAs": "https://en.wikipedia.org/wiki/Radical_left"
+ },
+ {
+  "terme": "Grand Remplacement",
+  "id": "grand-remplacement",
+  "camp": "droite",
+  "definition": "Théorie complotiste formulée en 2010 par l'écrivain Renaud Camus : les populations européennes blanches seraient délibérément remplacées par des populations immigrées, avec la complicité des élites. Démentie par les données démographiques, elle est devenue le mythe mobilisateur central de l'extrême droite mondiale et a été invoquée par plusieurs auteurs d'attentats.",
+  "sameAs": "https://fr.wikipedia.org/wiki/Grand_remplacement"
+ },
+ {
+  "terme": "Guérilla",
+  "id": "guerilla",
+  "camp": "gauche",
+  "definition": "Forme de lutte armée irrégulière. Les guérillas marxistes (FARC en Colombie jusqu'en 2016, NPA aux Philippines, naxalites en Inde) sont aujourd'hui en net déclin ; la NPA philippine compterait moins de 1 100 combattants selon les estimations de 2024.",
+  "sameAs": "https://fr.wikipedia.org/wiki/Gu%C3%A9rilla"
+ },
+ {
+  "terme": "Hégémonie culturelle",
+  "id": "hegemonie-culturelle",
+  "camp": "transversal",
+  "definition": "Concept d'Antonio Gramsci : une classe domine aussi par le consentement, en imposant ses représentations comme « sens commun ». Repris à gauche (Laclau et Mouffe) comme à droite (la Nouvelle Droite parle de « gramscisme de droite »), il fonde l'idée qu'il faut gagner la bataille des idées avant celle des urnes.",
+  "sameAs": "https://fr.wikipedia.org/wiki/H%C3%A9g%C3%A9monie_culturelle"
+ },
+ {
+  "terme": "Intersectionnalité",
+  "id": "intersectionnalite",
+  "camp": "transversal",
+  "definition": "Notion forgée par la juriste Kimberlé Crenshaw (1989) pour analyser le cumul et l'interaction des dominations (genre, race, classe…). Au cœur d'un conflit interne à la gauche radicale entre partisans d'une émancipation articulée et tenants de la primauté de la classe (qui y voient une « diversion »).",
+  "sameAs": "https://fr.wikipedia.org/wiki/Intersectionnalit%C3%A9"
+ },
+ {
+  "terme": "Légalisme autocratique",
+  "id": "legalisme-autocratique",
+  "camp": "droite",
+  "definition": "Notion de la juriste Kim Lane Scheppele : utilisation de procédures légales (majorité constitutionnelle, réformes électorales, nominations) pour démanteler les contre-pouvoirs sans coup d'État. La Hongrie de 2010-2026 en est le cas d'école.",
+  "sameAs": ""
+ },
+ {
+  "terme": "Maoïsme",
+  "id": "maoisme",
+  "camp": "gauche",
+  "definition": "Variante du marxisme-léninisme élaborée par Mao Zedong : rôle révolutionnaire de la paysannerie, « guerre populaire prolongée », ligne de masse. Il a inspiré guérillas (Népal, Pérou, Inde, Philippines) et mouvements étudiants occidentaux des années 1960-1970 — dont, en Belgique, les origines du PTB (AMADA).",
+  "sameAs": "https://fr.wikipedia.org/wiki/Mao%C3%AFsme"
+ },
+ {
+  "terme": "Marxisme-léninisme",
+  "id": "marxisme-leninisme",
+  "camp": "gauche",
+  "definition": "Doctrine officielle de l'URSS puis des États communistes : parti d'avant-garde, centralisme démocratique, dictature du prolétariat, économie planifiée. Elle survit dans plusieurs partis communistes (KKE grec, PCP portugais) et dans des organisations se réclamant d'un marxisme « orthodoxe ».",
+  "sameAs": "https://fr.wikipedia.org/wiki/Marxisme-l%C3%A9ninisme"
+ },
+ {
+  "terme": "Métapolitique",
+  "id": "metapolitique",
+  "camp": "droite",
+  "definition": "Stratégie théorisée par la Nouvelle Droite (Alain de Benoist, GRECE) : conquérir les esprits (culture, médias, écoles, think tanks) avant le pouvoir. Aujourd'hui, elle est financée à grande échelle — par exemple le projet Périclès en France (150 millions d'euros annoncés sur dix ans).",
+  "sameAs": "https://fr.wikipedia.org/wiki/M%C3%A9tapolitique"
+ },
+ {
+  "terme": "Nativisme",
+  "id": "nativisme",
+  "camp": "droite",
+  "definition": "Pilier idéologique central de la droite radicale selon Cas Mudde : un État devrait être habité exclusivement par les membres du groupe « natif », et les éléments non natifs (personnes ou idées) menaceraient l'homogénéité de la nation. Combinaison de nationalisme et de xénophobie.",
+  "sameAs": "https://en.wikipedia.org/wiki/Nativism_(politics)"
+ },
+ {
+  "terme": "Néofascisme",
+  "id": "neofascisme",
+  "camp": "droite",
+  "definition": "Mouvements postérieurs à 1945 qui revendiquent tout ou partie de l'héritage fasciste (MSI italien historique, CasaPound, groupuscules). À distinguer des partis populistes de droite radicale qui ne s'en réclament pas, même lorsqu'ils en sont issus.",
+  "sameAs": "https://fr.wikipedia.org/wiki/N%C3%A9ofascisme"
+ },
+ {
+  "terme": "Normalité pathologique",
+  "id": "normalite-pathologique",
+  "camp": "droite",
+  "definition": "Thèse de Cas Mudde (2010) : la droite radicale n'est pas une « pathologie normale » étrangère aux démocraties occidentales, mais une radicalisation de valeurs largement partagées (ordre, nation, souveraineté). D'où la porosité croissante avec la droite conservatrice.",
+  "sameAs": ""
+ },
+ {
+  "terme": "Nouvelle Droite",
+  "id": "nouvelle-droite",
+  "camp": "droite",
+  "definition": "Courant intellectuel né en France en 1968 autour du GRECE et d'Alain de Benoist : ethno-différencialisme (droit à la différence des peuples), rejet de l'égalitarisme et du libéralisme, stratégie métapolitique. Son influence irrigue les mouvements identitaires européens.",
+  "sameAs": "https://fr.wikipedia.org/wiki/Nouvelle_Droite"
+ },
+ {
+  "terme": "Palingénésie",
+  "id": "palingenesie",
+  "camp": "droite",
+  "definition": "Du grec « renaissance ». Pour l'historien Roger Griffin, le noyau du fascisme est un « ultranationalisme palingénésique » : le mythe d'une nation décadente qui doit renaître, purgée de ses éléments jugés impurs.",
+  "sameAs": "https://en.wikipedia.org/wiki/Palingenetic_ultranationalism"
+ },
+ {
+  "terme": "Populisme",
+  "id": "populisme",
+  "camp": "transversal",
+  "definition": "Selon la définition « idéationnelle » de Cas Mudde : une « idéologie mince » qui divise la société en deux groupes homogènes et antagonistes, le « peuple pur » et « l'élite corrompue », et veut que la politique exprime la volonté générale. Mince, elle se greffe sur des idéologies plus épaisses, de droite (nativisme) comme de gauche (socialisme).",
+  "sameAs": "https://fr.wikipedia.org/wiki/Populisme_(politique)"
+ },
+ {
+  "terme": "Populisme de gauche",
+  "id": "populisme-de-gauche",
+  "camp": "gauche",
+  "definition": "Stratégie théorisée par Ernesto Laclau et Chantal Mouffe : construire un « peuple » en articulant des demandes hétérogènes contre une « oligarchie », plutôt que d'opposer prolétariat et bourgeoisie. Inspiration assumée de Podemos et de La France insoumise.",
+  "sameAs": "https://fr.wikipedia.org/wiki/Populisme_de_gauche"
+ },
+ {
+  "terme": "Préférence nationale",
+  "id": "preference-nationale",
+  "camp": "droite",
+  "definition": "Principe consistant à réserver aux nationaux certains droits (emploi, logement social, prestations). Rebaptisée « priorité nationale » par le RN, elle se heurte en France et en Belgique aux principes constitutionnels d'égalité et au droit européen.",
+  "sameAs": "https://fr.wikipedia.org/wiki/Pr%C3%A9f%C3%A9rence_nationale"
+ },
+ {
+  "terme": "Remigration",
+  "id": "remigration",
+  "camp": "droite",
+  "definition": "Euphémisme de la mouvance identitaire désignant le renvoi massif de personnes d'origine immigrée, y compris de citoyens. La révélation, en janvier 2024, d'une réunion de Potsdam où ce projet était discuté avec des membres de l'AfD a provoqué d'immenses manifestations en Allemagne.",
+  "sameAs": "https://en.wikipedia.org/wiki/Remigration"
+ },
+ {
+  "terme": "Révolution permanente",
+  "id": "revolution-permanente",
+  "camp": "gauche",
+  "definition": "Théorie de Léon Trotsky : dans les pays retardataires, la révolution démocratique doit se transformer sans étape en révolution socialiste, et celle-ci doit s'étendre internationalement, faute de quoi elle dégénère. Elle s'oppose au « socialisme dans un seul pays » stalinien.",
+  "sameAs": "https://fr.wikipedia.org/wiki/R%C3%A9volution_permanente"
+ },
+ {
+  "terme": "Rouge-brun",
+  "id": "rouge-brun",
+  "camp": "transversal",
+  "definition": "Terme polémique désignant des convergences entre extrême gauche et extrême droite (souverainisme, antiaméricanisme, complotisme, conservatisme culturel). Il est parfois appliqué, de façon contestée, au « conservatisme de gauche » du BSW allemand. À manier avec précaution.",
+  "sameAs": "https://fr.wikipedia.org/wiki/Rouge-brun"
+ },
+ {
+  "terme": "Rupture métabolique",
+  "id": "rupture-metabolique",
+  "camp": "gauche",
+  "definition": "Concept tiré des carnets de Marx et développé par John Bellamy Foster puis Kohei Saito : le capitalisme rompt les échanges de matière entre sociétés humaines et nature (épuisement des sols, pollution, climat). Fondement théorique de l'écomarxisme.",
+  "sameAs": "https://en.wikipedia.org/wiki/Metabolic_rift"
+ },
+ {
+  "terme": "Terrorgram",
+  "id": "terrorgram",
+  "camp": "droite",
+  "definition": "Réseau de chaînes Telegram néonazies et accélérationnistes qui glorifient les auteurs de tueries (« saints »), diffusent manuels d'armes et listes de cibles. Plusieurs États l'ont désigné comme organisation terroriste. Il illustre la radicalisation en ligne de très jeunes auteurs signalée par Europol.",
+  "sameAs": "https://en.wikipedia.org/wiki/Terrorgram"
+ },
+ {
+  "terme": "Théorie du fer à cheval",
+  "id": "theorie-du-fer-a-cheval",
+  "camp": "transversal",
+  "definition": "Idée selon laquelle les extrêmes se rejoindraient, comme les deux bouts d'un fer à cheval. Utile pour pointer des traits communs (anti-libéralisme, rapport à la violence), elle est critiquée par la plupart des politologues parce qu'elle efface des différences de fond (égalitarisme vs inégalitarisme, universalisme vs nativisme). Voir la page Comparer.",
+  "sameAs": "https://fr.wikipedia.org/wiki/Th%C3%A9orie_du_fer_%C3%A0_cheval"
+ },
+ {
+  "terme": "Trotskisme",
+  "id": "trotskisme",
+  "camp": "gauche",
+  "definition": "Courant issu de l'opposition de Léon Trotsky au stalinisme : révolution permanente, internationalisme, critique de la bureaucratie, démocratie ouvrière. Fragmenté en multiples « Internationales », il reste une force de masse en Argentine (FIT-U) et a compté en Belgique une figure majeure, l'économiste Ernest Mandel.",
+  "sameAs": "https://fr.wikipedia.org/wiki/Trotskisme"
+ },
+ {
+  "terme": "Ultra-gauche",
+  "id": "ultra-gauche",
+  "camp": "gauche",
+  "definition": "Terme d'usage policier et médiatique en France pour désigner les milieux autonomes et anarchistes pratiquant l'action directe. Historiquement, il désignait plutôt les communistes de conseils opposés au léninisme (Pannekoek, Bordiga).",
+  "sameAs": "https://fr.wikipedia.org/wiki/Ultra-gauche"
+ },
+ {
+  "terme": "ZAD (Zone à défendre)",
+  "id": "zad-zone-a-defendre",
+  "camp": "gauche",
+  "definition": "Occupation durable d'un territoire pour s'opposer à un projet d'aménagement (aéroport de Notre-Dame-des-Landes, abandonné en 2018). Laboratoires d'autogestion, les ZAD ont nourri les Soulèvements de la Terre.",
+  "sameAs": "https://fr.wikipedia.org/wiki/Zone_%C3%A0_d%C3%A9fendre"
+ }
+]

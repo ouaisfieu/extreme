@@ -1,0 +1,42 @@
+# Extrêmes — Observatoire des radicalités politiques
+
+> Observatoire francophone, non partisan et sourcé des extrêmes droites et extrêmes gauches (idéologies, partis, élections 2024-2026, violence politique, réponses démocratiques). Textes rédigés par Claude (IA d'Anthropic), éditeur anonyme, licence CC BY-SA 4.0.
+
+## Pages
+- [À propos de l'observatoire](https://ouaisfieu.github.io/extreme/a-propos.html): Textes rédigés par Claude (IA d'Anthropic), éditeur anonyme, sources vérifiables, licence CC BY-SA, site statique sans build ni traceur.
+- [Répertoire des acteurs](https://ouaisfieu.github.io/extreme/acteurs.html): Répertoire filtrable de 46 partis, mouvements et réseaux (RN, AfD, VB, Fidesz, PTB, Die Linke, BSW, LFI, FIT-U, MST…) et leur situation en 2026.
+- [Action directe et autonomie : l'extrême gauche hors des urnes](https://ouaisfieu.github.io/extreme/action-directe-autonomie.html): Black blocs, antifascisme radical, Soulèvements de la Terre, sabotage selon Andreas Malm, « Antifa » désignée terroriste aux États-Unis, chiffres Europol.
+- [Allemagne : l'AfD en tête à l'Est, Die Linke en tête à Berlin](https://ouaisfieu.github.io/extreme/allemagne.html): AfD à 43,8 % en Saxe-Anhalt, Die Linke première à Berlin, vote du 29 janvier 2025, classement de l'AfD, échec du BSW : l'Allemagne en 2025-2026.
+- [Le laboratoire belge : PTB, Vlaams Belang et cordon sanitaire](https://ouaisfieu.github.io/extreme/belgique.html): Ascension du PTB-PVDA, force du Vlaams Belang, cordon sanitaire politique et médiatique, échec de Chez Nous, antifascisme : le laboratoire belge.
+- [Chronologie des radicalités politiques, 1848-2026](https://ouaisfieu.github.io/extreme/chronologie.html): Soixante-six dates clés des extrêmes droites et gauches, du Manifeste communiste aux élections de 2026, filtrables par camp et par pays.
+- [Comparer les deux extrêmes](https://ouaisfieu.github.io/extreme/comparaison.html): Les extrêmes se rejoignent-ils ? Comparaison critère par critère (démocratie, égalité, violence, économie, électorat) et limites du fer à cheval.
+- [La démocratie illibérale, du modèle hongrois à sa défaite](https://ouaisfieu.github.io/extreme/democratie-illiberale.html): Comment Orbán a bâti un « État illibéral », comment le modèle a inspiré le Projet 2025, et pourquoi il a perdu les élections d'avril 2026.
+- [Données ouvertes](https://ouaisfieu.github.io/extreme/donnees.html): Élections 2024-2026, chronologie, glossaire, acteurs et sources en JSON et CSV, sous licence CC BY-SA 4.0, sans clé ni inscription.
+- [Tableau de bord électoral 2024-2026](https://ouaisfieu.github.io/extreme/elections-2024-2026.html): Quinze tableaux sourcés : Parlement européen, Allemagne, Berlin, Hongrie, Pays-Bas, Portugal, Tchéquie, Pologne, Chili, Colombie… En CSV et JSON.
+- [États-Unis : droite radicale au pouvoir, gauche radicale sous pression](https://ouaisfieu.github.io/extreme/etats-unis.html): Grâces du 6 janvier, Projet 2025, déclassement par le V-Dem, assassinat de Charlie Kirk, « Antifa » terroriste et élection de Zohran Mamdani.
+- [Économie, genre, climat : les contradictions de la droite radicale](https://ouaisfieu.github.io/extreme/extreme-droite-economie-genre-climat.html): Chauvinisme de l'État-providence, votes réels, fémonationalisme selon Sara Farris, déni climatique et écofascisme : les contradictions de la droite radicale.
+- [L'extrême droite en Europe : pouvoir, cordons et contre-pouvoirs](https://ouaisfieu.github.io/extreme/extreme-droite-europe.html): PfE, ECR et ESN au Parlement européen, AfD et Brandmauer, RN et affaire Le Pen, PVV, Chega, Europe centrale, Reform UK : le bilan 2024-2026.
+- [Les idéologies de l'extrême droite](https://ouaisfieu.github.io/extreme/extreme-droite-ideologies.html): Nativisme, autoritarisme, populisme, palingénésie, Nouvelle Droite, Grand Remplacement et remigration : le noyau idéologique de l'extrême droite.
+- [Réseaux, financements et violence de l'extrême droite](https://ouaisfieu.github.io/extreme/extreme-droite-reseaux-violence.html): Projet Périclès, Atlas Network, Doppelgänger, accélérationnisme, Terrorgram, chiffres Europol 2025-2026 et limites des dissolutions.
+- [L'extrême droite dans le monde : panorama 2026](https://ouaisfieu.github.io/extreme/extreme-droite.html): Panorama 2026 de l'extrême droite et de la droite radicale : idéologie, élections, démocratie illibérale, Europe, Amériques, réseaux et violence.
+- [Amériques et Asie : de la vague rose au reflux](https://ouaisfieu.github.io/extreme/extreme-gauche-ameriques-asie.html): Du Chili de Boric à celui de Kast, Colombie, Bolivie, Lula en 2026, MST, trotskisme argentin, Mamdani à New York et déclin de la NPA philippine.
+- [Les courants de la gauche radicale et de l'extrême gauche](https://ouaisfieu.github.io/extreme/extreme-gauche-courants.html): Marxisme-léninisme, trotskisme, maoïsme, anarchisme, populisme de gauche de Mouffe, communisme de la décroissance de Saito : les doctrines expliquées.
+- [La gauche radicale en Europe : trajectoires contrastées](https://ouaisfieu.github.io/extreme/extreme-gauche-europe.html): Die Linke en tête à Berlin, échec du BSW, ascension du PTB, LFI, déclin de Syriza et Podemos, effondrement portugais : la gauche radicale 2024-2026.
+- [L'extrême gauche et la gauche radicale : panorama 2026](https://ouaisfieu.github.io/extreme/extreme-gauche.html): Panorama 2026 de la gauche radicale et de l'extrême gauche : courants, PTB, Die Linke, LFI, BSW, Amérique latine, action directe, fractures.
+- [Questions fréquentes](https://ouaisfieu.github.io/extreme/faq.html): Extrême ou radicale ? Le RN, le PTB, l'AfD, le Grand Remplacement, Antifa, le campisme, le fer à cheval : réponses courtes et sourcées.
+- [Les fractures de la gauche radicale](https://ouaisfieu.github.io/extreme/fractures-gauche-radicale.html): Campisme et Ukraine, internationalisme par le bas, classe contre intersectionnalité, conservatisme de gauche : les lignes de faille de l'extrême gauche.
+- [France : le RN aux portes du pouvoir, la gauche radicale en recomposition](https://ouaisfieu.github.io/extreme/france.html): Législatives 2024, affaire Le Pen jusqu'à l'arrêt d'appel de 2026, Reconquête, Périclès, LFI, dissolutions et Soulèvements de la Terre, vers 2027.
+- [Glossaire des radicalités politiques](https://ouaisfieu.github.io/extreme/glossaire.html): Nativisme, populisme, palingénésie, fémonationalisme, écofascisme, campisme, agonisme, black bloc, cordon sanitaire : 55 notions définies et sourcées.
+- [Comprendre les extrêmes, à gauche comme à droite](https://ouaisfieu.github.io/extreme/): Observatoire sourcé et non partisan des extrêmes droites et gauches : idéologies, partis, élections 2024-2026, violence, Belgique, Europe, Amériques.
+- [Définir les extrêmes : méthode et critères](https://ouaisfieu.github.io/extreme/methode.html): Extrême ou radical ? Les définitions de Cas Mudde et Luke March, le populisme comme idéologie mince, et six critères de classement appliqués aux deux camps.
+- [Penseurs, chercheurs et figures](https://ouaisfieu.github.io/extreme/penseurs.html): Cas Mudde, Luke March, Camus et Lebourg, Griffin, Farris, Biard ; Laclau, Mouffe, Saito, Malm, Mandel, de Benoist : qui analyse, qui inspire.
+- [Sources et bibliographie](https://ouaisfieu.github.io/extreme/sources.html): Bibliographie complète : travaux académiques, rapports V-Dem et Europol, données électorales, presse et sources primaires, avec les pages qui les citent.
+- [Vidéos](https://ouaisfieu.github.io/extreme/videos.html): Deux vidéos : « Extrêmes droites et gauches — Panorama » et « L'Ordre Mondial en Métamorphose », avec lecteur sans cookie et guide de visionnage.
+
+## Données
+- [Index de recherche JSON](https://ouaisfieu.github.io/extreme/data/search.json)
+- [Élections 2024-2026 JSON](https://ouaisfieu.github.io/extreme/data/elections.json)
+- [Chronologie JSON](https://ouaisfieu.github.io/extreme/data/chronologie.json)
+- [Glossaire JSON](https://ouaisfieu.github.io/extreme/data/glossaire.json)
+- [Acteurs JSON](https://ouaisfieu.github.io/extreme/data/acteurs.json)
+- [Sources JSON](https://ouaisfieu.github.io/extreme/data/sources.json)

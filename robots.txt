@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /recherche.html
+
+Sitemap: https://ouaisfieu.github.io/extreme/sitemap.xml
